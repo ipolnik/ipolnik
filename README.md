@@ -15,6 +15,6 @@ Connect with me:
 
 ## And my stats
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ipolnik&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=ipolnik&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true) <br>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ipolnik&theme=radical&langs_count=20&layout=compact)](https://github.com/ipolnik)
 
