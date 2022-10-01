@@ -3,11 +3,12 @@
 
 My name is Igor, I'm a Front-End developer with QA automation expiriense.
 <br>
-Connect with me: 
+Contact me with: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/igor-polnik-a5259594/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://t.me/Igor_Polnikov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramBadge"/>
   </a>
