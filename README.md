@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ipolnik/ipolnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Full Stack developer from Russia
+Front-End developer
 Few words about Me:
 🎯 Full Stack Developer with IT Education aimed at Information Security. Highly skilled to work with teams up to 5 members and multi-task on projects under strict deadlines.
 🔭 I’m currently searching of working where can I reach my full potential
@@ -13,4 +11,4 @@ iuriiser iuriiser
 
 Languages and Tools:
 babel bootstrap css3 express git html5 javascript jest linux nodejs postgresql postman pug react redis sass
--->
+
