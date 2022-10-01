@@ -1,23 +1,21 @@
 ### Hi there 👋
 
 
-My name is Igor, I'm a Software Engineer
+My name is Igor, I'm a Software Engineer.
 Few words about Me: <br>
-🎯 Front-End Developer with IT Education aimed at Information Security. Highly skilled to work with teams up to 5 members and multi-task on projects under strict deadlines.
-🔭 I’m currently searching of working where can I reach my full potential
-⚡ Fact about me: I have a collection of minerals that I have collected traveled around the Krasnodar Territory and the Republic of Crimea
+🎯 Front-End Developer with QA automation expiriense.
+<br>
 Connect with me: 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/igor-polnik-a5259594/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-telegram-URL">
-    <img src="[https://simpleicons.org/icons/telegram.svg](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)" alt="TelegramBadge"/>
+  <a href="https://t.me/Igor_Polnikov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramBadge"/>
   </a>
 </div>
 
+## And my stats
 
-
-Languages and Tools:
-babel bootstrap css3 express git html5 javascript jest linux nodejs postgresql postman pug react redis sass
+![Martyn's Github](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
 
