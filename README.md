@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-My name is Igor, I'm a Software Engineer.
-Few words about Me: <br>
-🎯 Front-End Developer with QA automation expiriense.
+My name is Igor, I'm a Software Engineer with QA automation expiriense.
 <br>
 Connect with me: 
 <div id="badges">
