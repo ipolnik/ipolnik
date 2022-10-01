@@ -15,5 +15,5 @@ Connect with me:
 
 ## And my stats
 
-![Martyn's Github](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
+![My Github](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
 
