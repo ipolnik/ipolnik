@@ -21,3 +21,8 @@ Contact me with:
 ### Codewars:
 [![codewars](https://www.codewars.com/users/ipolnik@yahoo.com/badges/large)](https://www.codewars.com/users/ipolnik@yahoo.com/badges/large)<br><br>
 
+<a href="https://stackoverflow.com/users/9150392/ipolnik" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=9150392" />
+</a>
+
