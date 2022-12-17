@@ -20,7 +20,6 @@ Contact me with:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ipolnik&theme=radical&langs_count=20&layout=compact)](https://github.com/ipolnik)
 ### Codewars:
 [![codewars](https://www.codewars.com/users/ipolnik@yahoo.com/badges/large)](https://www.codewars.com/users/ipolnik@yahoo.com/badges/large)<br><br>
-
 ### StackOverflow:
 <a href="https://stackoverflow.com/users/9150392/ipolnik" target="_blank">
 <img alt="StackOverflow"
