@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Igor, I'm a Front-End developer with QA automation expiriense.
+My name is Igor, I'm a QA automation engineer with Front-End developer expiriense.
 <br>
 Contact me with: 
 <div id="badges">
